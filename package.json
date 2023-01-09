@@ -5,7 +5,13 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "react-router": "6.3.0",
+    "react-router-dom": "6.3.0",
+    "@mui/material": "^5.8.6",
+    "@mui/styles": "^5.8.6",
+    "@mui/system": "^5.8.6",
+    "@mui/utils": "^5.8.6"
   },
   "devDependencies": {},
   "scripts": {
